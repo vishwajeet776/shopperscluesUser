@@ -1,4 +1,4 @@
-package com.shoppersclues.shoppersclues.Entity;
+package com.shoppersclues.shoppersclues.DTO;
 
 import lombok.Data;
 
