@@ -4,6 +4,8 @@ import com.shoppersclues.shoppersclues.Entity.User;
 import com.shoppersclues.shoppersclues.Service.UserService;
 import jakarta.persistence.GeneratedValue;
 import lombok.RequiredArgsConstructor;
+import lombok.extern.log4j.Log4j;
+import lombok.extern.log4j.Log4j2;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
